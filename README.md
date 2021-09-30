@@ -1,8 +1,8 @@
 # LA6-POE_windows_csharp_example  
 
-The outline of the sample program for controlling LA-POE by socket communication is described.
+The outline of the sample program for controlling LA6-POE by socket communication is described.
 
-The purpose of this program is to control Linux in C language without using the DLL provided by Patlite.
+The purpose of this program is to control Windows in C# language.
 
 ![EN_SG_000651.jpg](https://cdn3.volusion.com/zfyub.tbqzg/v/vspfiles/photos/LA6-5DTNWB-POE-2T.jpg?v-cache=1627546983"EN_SG_000651")
 
