@@ -8,7 +8,7 @@ If you have any enquiries about sample source code or our products, please conta
 
 < https://www.patlite.com/contact/english/input.html >
 
-![EN_SG_000651.jpg](https://cdn3.volusion.com/zfyub.tbqzg/v/vspfiles/photos/LA6-5DTNWB-POE-2T.jpg?v-cache=1627546983"EN_SG_000651")
+![EN_SG_000651](https://github.com/PATLITE-Corporation/LA6-POE_linux_cpp_example/assets/86467048/c6e84020-f724-49b1-9b4b-779762584953)
 
 
 [Product info](https://www.patlite.com/product/detail0000000651.html) 
