@@ -1,4 +1,4 @@
-# LA6-POE_windows_csharp_example  
+# LA6-POE_windows_csharp_example
 
 The outline of the sample program for controlling LA6-POE by socket communication is described.
 
